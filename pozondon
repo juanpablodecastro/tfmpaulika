@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "geonotes:id": 1,
+        "geonotes:note": "cartel quemado, reemplazar",
+        "geonotes:created_at": "2021-10-05 10:42:56"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.544559,
+          40.532368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geonotes:id": 2,
+        "geonotes:note": "camino mal marcado, hueco para coches, posible parking",
+        "geonotes:created_at": "2021-10-05 10:52:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.552273,
+          40.537297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geonotes:id": 3,
+        "geonotes:note": "posible zona picnic y mirador",
+        "geonotes:created_at": "2021-10-05 10:57:59"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.549792,
+          40.537991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geonotes:id": 4,
+        "geonotes:note": "cartel informativo quemado reemplazar",
+        "geonotes:created_at": "2021-10-05 11:01:57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.548881,
+          40.538804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geonotes:id": 5,
+        "geonotes:note": "posible zona picnic",
+        "geonotes:created_at": "2021-10-05 11:10:37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.545651,
+          40.541217
+        ]
+      }
+    }
+  ]
+}
